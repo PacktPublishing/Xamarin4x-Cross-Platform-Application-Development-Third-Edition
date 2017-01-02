@@ -1,5 +1,5 @@
 #Xamarin 4.x Cross-Platform Application Development - Third Edition
-This is the code repository for [Xamarin 4.x Cross-Platform Application Development - Third Edition](https://www.packtpub.com/application-development/xamarin-4x-cross-platform-application-development-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786465412), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Xamarin 4.x Cross-Platform Application Development - Third Edition](https://www.packtpub.com/application-development/xamarin-4x-cross-platform-application-development-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786465412), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Xamarin is a leading cross-platform application development tool used by top companies such as Coca-Cola, Honeywell, and Alaska Airlines to build apps. Version 4 features significant updates to the platform including the release of Xamarin.Forms 2.0 and improvements have been made to the iOS and Android designers. Xamarin was acquired by Microsoft so it is now a part of the Visual Studio family.
 ##Instructions and Navigations
