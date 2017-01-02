@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">XamSnap</string>
+    <string name="ErrorTitle">Oops!</string>
+    <string name="Loading">Loading</string>
+    <string name="Login">Login</string>
+</resources>
